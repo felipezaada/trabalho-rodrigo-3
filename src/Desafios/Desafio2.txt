@@ -1,0 +1,1 @@
+Design Patterns são soluções gerais para problemas recorrentes. Para conseguir utilizar o singleton pattern, eu teria que criar um construtor privado e uma classe estática, garantindo que somente uma instância da classe possa existir.
